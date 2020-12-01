@@ -1,11 +1,8 @@
-body {
-  padding: 5px;
-}
 h1 {
   background-color: black;
   color: white;
   text-align: center;
-  text-shadow: 2px 1px red;
+  text-shadow: 3px 1px red;
 }
 p {
   text-indent: 20px;

@@ -2,7 +2,11 @@ body {
   background-color: orange;
 }
 div {
+  width: 500px;
   margin: 20px;
   padding: 30px;
   background-color: yellow;
+}
+p {
+  font-size: 30px;
 }
